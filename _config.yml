@@ -1,0 +1,34 @@
+title: 동화자동화
+lang: kr
+description: 동화자동화 기업부설연구소
+
+remote_theme: sighingnow/jekyll-gitbook
+
+# debug:
+#   compress: false
+#   dist: false
+#   extension: true
+
+readme_index:
+  with_frontmatter: true
+
+sass:
+  style: compress
+
+plugins:
+  - jemoji
+  - jekyll-avatar
+  - jekyll-mentions
+
+exclude:
+  - Makefile
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - requirements.txt
+  - node_modules
+  - package.json
+  - package-lock.json
+  - webpack.config.js
+  - jekyll-gitbook.gemspec
