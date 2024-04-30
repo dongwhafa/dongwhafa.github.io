@@ -1,11 +1,6 @@
 title: 동화자동화
-longtitle: 동화자동화 기업부설연구소
 lang: kr
 description: 동화자동화 기업부설연구소
-
-url: 'https://dongwhafa.github.io'
-baseurl: '/dongwhafa.github.io'
-rss: RSS
 
 # bootstrap: use the remote theme for the site itself
 remote_theme: sighingnow/jekyll-gitbook
