@@ -8,7 +8,7 @@ permalink: /
 
 ## 동화자동화
 
-![Dongwha Logo](img/dongwha_logo.png)
+![Dongwha Logo](image/dongwha_logo.png)
 
 (주)동화자동화는 자동화 장치 관련 장비, 각종 산업용 자동화기기 수입 및 판매, 관리전문 기업으로서, 1993년 창립이래, 세계 주요 업체들과 지속적인 기술 교류 등을 통해, 최고의 기술을 제공과 원활한 현장 대응을 제공하고자 최선을 다하고 있습니다.
 
