@@ -3,9 +3,9 @@ longtitle: 동화자동화 기업부설연구소
 lang: kr
 description: 동화자동화 기업부설연구소
 
-url:              'https://dongwhafa.github.io'
-baseurl:          '/dongwhafa.github.io'
-rss:              RSS
+url: 'https://dongwhafa.github.io'
+baseurl: '/dongwhafa.github.io'
+rss: RSS
 
 # bootstrap: use the remote theme for the site itself
 remote_theme: sighingnow/jekyll-gitbook
@@ -16,7 +16,7 @@ toc:
   h_max: 3
 
 # customize the link favicon in header, will be {{site.baseurl}}/{{site.favicon_path}}
-favicon_path:     /assets/gitbook/images/favicon.ico
+favicon_path:     /image/favicon.ico
 
 # markdown render engine.
 markdown:         kramdown
