@@ -15,3 +15,14 @@ permalink: /
 
 
 ### 동화자동화 기업부설연구소 고객사
+- [유진로봇](https://yujinrobot.com/)
+- [한국전자기술연구원](https://www.keti.re.kr/)
+- [씨메스](https://www.cmesrobotics.ai/)
+- [한국생산기술연구원](https://www.kitech.re.kr/)
+- [한국로봇융합연구원](https://www.kiro.re.kr/)
+- [연세대학교](https://www.yonsei.ac.kr/)
+- [고려대학교](https://www.korea.ac.kr/)
+- [성균관대학교](https://www.skku.edu/)
+- [인지컨트롤스](https://www.inzi.co.kr/)
+- [신성델타테크](https://www.gshinsung.com/)
+- [제팩](https://jaepack.com/)
