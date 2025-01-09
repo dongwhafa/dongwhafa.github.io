@@ -1,7 +1,7 @@
 ---
 title: Solution
-author: Kim, Dong Yeop
-date: 2025-01-09
+author: Kim, In Su
+date: 2024-01-09
 category: pages
 layout: post
 ---
