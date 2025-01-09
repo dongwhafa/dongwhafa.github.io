@@ -7,7 +7,8 @@ version:          1.0
 gitbook_version:  3.2.3
 
 url:              'https://dongwhafa.github.io'
-baseurl:          '/jekyll-gitbook'
+#baseurl:          '/jekyll-gitbook'
+baseurl:          ''
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
@@ -46,24 +47,24 @@ permalink:                /:categories/:year-:month-:day-:title:output_ext
 exclude:
   - _drafts
 
-collections:
-  pages:
-    output: true
-    permalink: /:collection/:path/
-  others:
-    output: true
-    permalink: /:collection/:path/
+#collections:
+#  pages:
+#    output: true
+#    permalink: /:collection/:path/
+#  others:
+#    output: true
+#    permalink: /:collection/:path/
 
 ordered_collections:
   - posts
-  - pages
-  - others
+#  - pages
+#  - others
 
 page_width: 800px
 
 destination:      ./_site
 incremental:      false
-regenerate:       true
+#regenerate:       true
 
 plugins:
   - jekyll-feed
